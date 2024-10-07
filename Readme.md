@@ -1,6 +1,5 @@
-Certainly! Here is the README file for your `TreePlantingInitiative` smart contract:
 
----
+![image](https://github.com/user-attachments/assets/d68880d0-30f6-4111-b7c1-1d801a70c86c)
 
 # Tree Planting Initiative
 
